@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/chess">
+        <file alias="background">img/3961e4181205b53.jpg</file>
+        <file alias="wuziqi">img/udgf4ocIbQ.jpg</file>
+    </qresource>
+</RCC>
